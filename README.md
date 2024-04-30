@@ -13,4 +13,5 @@
 - Set up the contract addresses and update the ABIs of contracts if you see fit
 - Enter the functions you want to interact with
 - Interact with the contracts. You'll need to enter each argument by hand in an unintuitive way.
+
 (Hint: You can set up the project to interact with local network if you choose "Custom" entry)
